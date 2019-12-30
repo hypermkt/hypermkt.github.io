@@ -13,7 +13,7 @@ categories:
 
 ### PHPカンファレンス沖縄
 
-![](https://blog.hypermkt.jp/wp-content/uploads/2019/10/IMG_20191012_090545.jpg)
+![](/images/IMG_20191012_090545.jpg)
 
 会場のCODEBASEは、那覇市内から電車で行くことが出来ず、タクシーで直接向かった。約20分ほど。
 
