@@ -10,7 +10,7 @@ categories:
 
 
 
-![iPhone_Payment_Last6months](https://hypermkt-blog.lolipop.io/wp-content/uploads/2016/03/iPhone_Payment_Last6months.png)
+![iPhone_Payment_Last6months](/images/iPhone_Payment_Last6months.png)
 
 
 *  月額利用料が約8000円と高いので前々から不満だった。上記は過去半年の実際に利用料のグラフである。通話はほぼ無かったので１万円を超えることはなかったが、それでも高い！

@@ -223,7 +223,7 @@ npm run build
 結果、下記のように表示されれば成功です。
 
 
-![vuejs_babelify](https://hypermkt-blog.lolipop.io/wp-content/uploads/2016/09/vuejs_babelify.png)
+![vuejs_babelify](/images/vuejs_babelify.png)
 
 本件のソースコードは
 [こちら](https://github.com/hypermkt/vuejs-samples/tree/master/vueify-babel-build)に置いてあります。

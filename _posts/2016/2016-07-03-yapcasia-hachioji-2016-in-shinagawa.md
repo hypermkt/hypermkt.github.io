@@ -116,11 +116,11 @@ categories:
 *  と完全装備
 
 
-![IMG_20160703_093202](https://hypermkt-blog.lolipop.io/wp-content/uploads/2016/07/IMG_20160703_093202.jpg)
+![IMG_20160703_093202](/images/IMG_20160703_093202.jpg)
 
 余談ですが31階からの眺めは圧巻でした。あの空き地には何が建設されるんだろう。
 
-![IMG_20160703_093214](https://hypermkt-blog.lolipop.io/wp-content/uploads/2016/07/IMG_20160703_093214.jpg)
+![IMG_20160703_093214](/images/IMG_20160703_093214.jpg)
 
 
 ## 当日はどうやってスタッフ間の連絡をとったのか
