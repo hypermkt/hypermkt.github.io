@@ -26,7 +26,7 @@ activate :blog do |blog|
 
    blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
-   blog.sources = "articles/{year}/{year}-{month}-{day}-{title}.md"
+   blog.sources = "articles/{year}/{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
@@ -40,9 +40,9 @@ activate :blog do |blog|
   blog.calendar_template = "calendar.html"
 
   # Enable pagination
-  # blog.paginate = true
-  # blog.per_page = 10
-  # blog.page_link = "page/{num}"
+   blog.paginate = true
+   blog.per_page = 10
+   blog.page_link = "page/{num}"
 end
 
 page "/feed.xml", layout: false
